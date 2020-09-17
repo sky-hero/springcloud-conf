@@ -1,2 +1,2 @@
-server:
-  port: 3345
+config:
+  info: "version=1.0"
